@@ -36,7 +36,7 @@ map.html
 <font color="red"><b>THANJAVUR</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>R.TEJASWINI(2409408)</b></font>
+<font color="blue"><b>P.Madhushri(212224040178)</b></font>
 </h3>
 <center>
 <img src="web map.png" usemap="#MyCity" height="680" width="1280">
